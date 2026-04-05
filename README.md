@@ -1,6 +1,6 @@
 # VIBSeg
 
-**VIBSeg: Reliable Text-Guided Semi-Supervised Medical Image Segmentation via Semantic Filtering and Cross-Modal Alignment**
+**VIBSeg: Filtering Task-Irrelevant Textual Semantics for Reliable Text-Guided Semi-Supervised Medical Image Segmentation**
 
 🚧 The code is currently being organized and will be released soon.
 
